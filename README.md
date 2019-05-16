@@ -10,7 +10,7 @@ Median of three technique is an enhancement to the quicksort algorithm. In this 
 <p>
 Output:</br>
 Set 1 observations: </br>
-ALGORITHM N COMPARISONS</t>  TIME </br>
+ALGORITHM   N   COMPARISONS    TIME </br>
 Quick sort   1000 248502   0.06245112419128418 </br>
 MY_CHOICE_QSORT  1000 62002   0.015660762786865234 </br>
 Quick sort   10000 124749   0.03120279312133789 </br>
