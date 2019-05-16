@@ -17,7 +17,7 @@ The random data is generated within the file sort_improv.py for 1000, 10K, 50K, 
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
+[![INSERT YOUR GRAPHIC HERE](http://i.imgur.com/dt8AUb6.png)]()
 
 ## Versioning
 
