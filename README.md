@@ -7,9 +7,10 @@ b. Set_2: Poisson distribution of data values </br>
 Median of three technique:</br>
 Median of three technique is an enhancement to the quicksort algorithm. In this method, before partitioning process of the data value begins, the left, middle and right element of the data values are sorted, and these values are placed back in sorted order in the same positions in the data. The pivot value is the median of these three elements. The rest of the process continues same as the traditional quicksort algorithm
 
+<p>
 Output:</br>
 Set 1 observations: </br>
-ALGORITHM</t>   N</t> COMPARISONS</t>  TIME </br>
+ALGORITHM N COMPARISONS</t>  TIME </br>
 Quick sort   1000 248502   0.06245112419128418 </br>
 MY_CHOICE_QSORT  1000 62002   0.015660762786865234 </br>
 Quick sort   10000 124749   0.03120279312133789 </br>
@@ -20,6 +21,7 @@ Quick sort   100000 124749   0.031244277954101562 </br>
 MY_CHOICE_QSORT  100000 124251   0.03124260902404785 </br>
 Quick sort   500000 124749   0.04686307907104492 </br>
 MY_CHOICE_QSORT  500000 124251   0.03124403953552246 </br>
+</p>
  
 Set 2 observations: </br>
 ALGORITHM   N COMPARISONS  TIME </br>
