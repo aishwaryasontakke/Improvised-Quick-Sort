@@ -1,7 +1,7 @@
 __author__ = 'AISHWARYA SONTAKKE'
 
 """
-Author: AISHWARYA SONTAKKE as4897
+Author: AISHWARYA SONTAKKE
 
 This program compares two different quick sorting algorithms on the
 given two types of data sets.
