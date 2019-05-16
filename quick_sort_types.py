@@ -1,7 +1,7 @@
 __author__ = 'AISHWARYA SONTAKKE'
 
 """
-Author: AISHWARYA SONTAKKE as4897
+Author: AISHWARYA SONTAKKE
 This program has two types of quick sorting algorithms implemented.
 """
 
