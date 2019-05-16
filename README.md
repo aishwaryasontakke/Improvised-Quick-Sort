@@ -3,14 +3,13 @@
 Implementation of MY_CHOICE_QSORT algorithm which is an improvisation of the traditional quicksort on the given two types of data sets. </br>
 a. Set_1: Random Lists (1000, 10K, 50K, 100K and 500K) </br>
 b. Set_2: Poisson distribution of data values </br>
-</br>
 
 Median of three technique:</br>
 Median of three technique is an enhancement to the quicksort algorithm. In this method, before partitioning process of the data value begins, the left, middle and right element of the data values are sorted, and these values are placed back in sorted order in the same positions in the data. The pivot value is the median of these three elements. The rest of the process continues same as the traditional quicksort algorithm
 
 Output:
 Set 1 observations: </br>
-ALGORITHM   N COMPARISONS  TIME </br>
+ALGORITHM<\t>   N<\t> COMPARISONS<\t>  TIME </br>
 Quick sort   1000 248502   0.06245112419128418 </br>
 MY_CHOICE_QSORT  1000 62002   0.015660762786865234 </br>
 Quick sort   10000 124749   0.03120279312133789 </br>
