@@ -1,6 +1,6 @@
 # Improvised Quick Sort
 
-Implementation of MY_CHOICE_QSORT algorithm which is an improvisation of the traditional quicksort on the given two types of data sets. 
-a. Set_1: Random Lists (1000, 10K, 50K, 100K and 500K) 
+Implementation of MY_CHOICE_QSORT algorithm which is an improvisation of the traditional quicksort on the given two types of data sets. </br>
+a. Set_1: Random Lists (1000, 10K, 50K, 100K and 500K) </br>
 b. Set_2: Poisson distribution of data values 
 
